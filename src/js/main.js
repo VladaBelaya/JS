@@ -24,3 +24,7 @@
 // console.log(parseInt(stringInt) + 2);
 // console.log(parseFloat(stringFloat) + 2);
 // console.log(+stringFloat + 2); // знак '+' заменяет parseInt -Float, преобразует строку в число
+
+// console.log(0.4 + 0.2);
+// console.log(2 / 5 + 1 / 5);
+// console.log(+(0.4 + 0.2).toFixed(1));
